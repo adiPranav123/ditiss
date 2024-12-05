@@ -1,0 +1,13 @@
+#!/bin/bash
+
+
+echo "Current Date and Time: $(date)"
+
+
+echo "System Information:"
+uname -a
+
+touch system_info.sh
+
+
+
